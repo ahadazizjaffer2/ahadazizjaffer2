@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img style="align-self:center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
