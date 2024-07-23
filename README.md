@@ -49,7 +49,7 @@ Let's collaborate and build something amazing together!
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadazizjaffer2&show_icons=true&theme=radical)
-
+<!--
 ## 📜 Quote of the Day
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
@@ -57,4 +57,4 @@ Let's collaborate and build something amazing together!
 ## 👀 Visitor Count
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ahadazizjaffer2.ahadazizjaffer2)
-
+-->
