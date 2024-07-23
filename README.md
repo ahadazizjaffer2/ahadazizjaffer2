@@ -35,17 +35,6 @@ A Programming Lab Cheating Surveillance Software That Uses Keystroke/Mouse/Webca
 The Real-Time Chat Application is a web-based platform that facilitates real-time communication between users in designated chat rooms. It includes features such as user authentication, room creation and management, and real-time messaging using Socket-IO Library.
 
 
-## 📫 Get in Touch
-
-Feel free to reach out to me on:
-
-- [LinkedIn](https://www.linkedin.com/in/ahadaziz)
-- [Email](mailto:ahadaziz4@gmail.com)
-
-Let's collaborate and build something amazing together!
-
-
-
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadazizjaffer2&show_icons=true&theme=radical)
@@ -58,3 +47,14 @@ Let's collaborate and build something amazing together!
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ahadazizjaffer2.ahadazizjaffer2)
 -->
+
+
+## 📫 Get in Touch
+
+Feel free to reach out to me on:
+
+- [LinkedIn](https://www.linkedin.com/in/ahadaziz)
+- [Email](mailto:ahadaziz4@gmail.com)
+
+Let's collaborate and build something amazing together!
+
