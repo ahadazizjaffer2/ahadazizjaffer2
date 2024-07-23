@@ -16,15 +16,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Projects
+## 🛠️ Skills and Technologies
 
-### [Project 1: WhatsApp Messaging System](https://github.com/yourusername/project1)
-A .NET application that integrates with the WhatsApp Cloud API to send and receive messages, including session-based chat functionality with OTP verification.
+- **Languages:** C#, SQL, JavaScript, Python, C/C++
+- **Frameworks:** .NET, ASP.NET Core, React.js
+- **Databases:** SQL Server, Dapper, MongoDB
+- **Cloud Services:** Azure (App Service, Containers)
+- **Messaging:** WhatsApp Cloud API
+- **Other Tools:** Git, Docker, Linux
 
-### [Project 2: PDF Conversion Service](https://github.com/yourusername/project2)
-A service that fetches files from URLs, converts them to PDFs, and serves them via a web endpoint.
 
-### [Project 3: Data Processing with MapReduce](https://github.com/yourusername/project3)
-A study and implementation of the MapReduce data processing model, inspired by the paper 'MapReduce: Simplified Data Processing on Large Clusters' by Jeffrey Dean and Sanjay Ghemawat.
+## 🚀 Prominent Projects
 
-4. Blog and Articles
+### [Project 1: Cheating Surveillance System](https://github.com/yourusername/project1](https://github.com/ahadazizjaffer2/Cheating-Surveillance)
+A Programming Lab Cheating Surveillance Software That Uses Keystroke/Mouse/Webcam Sequences To Detect Possible Cheating Scenarios In a Lab Exam Setting Using MT-Cascaded Nueral Networks, Reinforcement Learning Agents and Deep Q-Networks.
+
+### [Project 2: Friend-Chat App]([https://github.com/ahadazizjaffer2/project2](https://github.com/ahadazizjaffer2/FriendChat-App))
+The Real-Time Chat Application is a web-based platform that facilitates real-time communication between users in designated chat rooms. It includes features such as user authentication, room creation and management, and real-time messaging using Socket-IO Library.
+
+
+## 📫 Get in Touch
+
+Feel free to reach out to me on:
+
+- [LinkedIn](https://www.linkedin.com/in/ahadaziz)
+- [Email](mailto:ahadaziz4@gmail.com)
+
+Let's collaborate and build something amazing together!
+
+
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadazizjaffer2&show_icons=true&theme=radical)
+
+## 📜 Quote of the Day
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
+
+## 👀 Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ahadazizjaffer2.ahadazizjaffer2)
+
