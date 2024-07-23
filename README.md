@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Prominent Projects
 
-### [Project 1: Cheating Surveillance System](https://github.com/yourusername/project1](https://github.com/ahadazizjaffer2/Cheating-Surveillance)
+### [Project 1: Cheating Surveillance System](https://github.com/ahadazizjaffer2/Cheating-Surveillance)
 A Programming Lab Cheating Surveillance Software That Uses Keystroke/Mouse/Webcam Sequences To Detect Possible Cheating Scenarios In a Lab Exam Setting Using MT-Cascaded Nueral Networks, Reinforcement Learning Agents and Deep Q-Networks.
 
-### [Project 2: Friend-Chat App]([https://github.com/ahadazizjaffer2/project2](https://github.com/ahadazizjaffer2/FriendChat-App))
+### [Project 2: Friend-Chat App]([https://github.com/ahadazizjaffer2/project2](https://github.com/ahadazizjaffer2/FriendChat-App)
 The Real-Time Chat Application is a web-based platform that facilitates real-time communication between users in designated chat rooms. It includes features such as user authentication, room creation and management, and real-time messaging using Socket-IO Library.
 
 
