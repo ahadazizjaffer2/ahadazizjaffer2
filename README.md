@@ -34,6 +34,11 @@ A Programming Lab Cheating Surveillance Software That Uses Keystroke/Mouse/Webca
 ### [Project 2: Friend-Chat App](https://github.com/ahadazizjaffer2/FriendChat-App)
 The Real-Time Chat Application is a web-based platform that facilitates real-time communication between users in designated chat rooms. It includes features such as user authentication, room creation and management, and real-time messaging using Socket-IO Library.
 
+### [Project 3: BookyWooky Library App](https://booky-wooky.vercel.app/)
+BookyWooky is a React-based library management system with three user roles: Admin, Customer, and Librarian. It offers a seamless dashboard experience tailored to each role for efficient book management, browsing, and administration.
+
+### [Project 4: Library Management API](https://github.com/ahadazizjaffer2/LibraryManagement)
+This .NET API serves as the backend for the BookyWooky React app, exposing all necessary endpoints for book management, user authentication, and role-based access control.
 
 ## 📊 GitHub Stats
 
