@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills and Technologies
 
 - **Languages:** C#, SQL, JavaScript, Python, C/C++
-- **Frameworks:** .NET, ASP.NET Core, React.js
+- **Frameworks:** ASP.NET Core, Flask, React.js
 - **Databases:** SQL Server, Dapper, MongoDB
 - **Cloud Services:** Azure (App Service, Containers)
 - **Messaging:** WhatsApp Cloud API
